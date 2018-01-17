@@ -9,7 +9,7 @@ open database testdb;
 
 # Define source file with complete path for import and jnetwork creation
 
-let SOURCEFILE = '/home/secondo/Downloads/town.osm';
+let SOURCEFILE = '/home/secondo/secondo/bin/town.osm';
 
 # import osm data form file into sisx relations described in OSMAlgebra
 # for operator fullosmimport
@@ -1085,7 +1085,6 @@ let JunctionsInAndOutComingSections =
                   ListInSections: .ListInSections_i,
                   ListOutSections: .ListOutSections_o]
 consume;
-  
 
 # Create Inputfiles for Routes and Junctions for JNetwork
 
@@ -1629,3 +1628,6 @@ query createjnet("MHTTestJNetwork", 0.000001, InJunctions, InSections, InRoutes)
 close database;
 
 quit;
+
+
+query createjnet("Santiago_red", 0.000001, InJunctions, InSections, InRoutes);
