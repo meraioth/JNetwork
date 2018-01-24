@@ -11,6 +11,7 @@ open database stgo;
 
 let SOURCEFILE = '/home/secondo/secondo/bin/Santiago.osm';
 
+
 # import osm data form file into sisx relations described in OSMAlgebra
 # for operator fullosmimport
 
