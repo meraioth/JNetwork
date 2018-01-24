@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<?xml-stylesheet href="gpx.xsl" type="text/xsl"?>
+<gpx
+ version="1.0" creator="Event_Logger 8.2 - http://web.tiscali.it/macri/Event_Logger - TomTom GO 710 (GO 710, Id=8) - Ttn: 7.903 build 9183"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+	<name>ideal</name>
+	<desc></desc>
+	<author>mera</author><email>meraulloa@udec.cl</email>
+	
+	<wpt lat="-33.40775556" lon="-70.54557323">
+		<time>2018-01-23T20:18:08Z</time>
+		<name>2018-01-23T20:18:08Z</name>
+		<sym>Waypoint</sym>
+		<type>SUSPEND</type>
+	</wpt>
+	<trk><name>2018-01-23T20:18:08Z</name><desc></desc>
+		<trkseg>
+<trkpt lat="-33.40775556" lon="-70.54557323"><time>2018-01-23T20:18:08Z</time>
+</trkpt>
+<trkpt lat="-33.40822128" lon="-70.55151701"><time>2018-01-23T20:18:18Z</time>
+</trkpt>
+<trkpt lat="-33.40830188" lon="-70.55304050"><time>2018-01-23T20:18:38Z</time>
+</trkpt>
+<trkpt lat="-33.40787199" lon="-70.55541158"><time>2018-01-23T20:18:58Z</time>
+</trkpt>
+
+
+		</trkseg>
+	</trk>
+</gpx>

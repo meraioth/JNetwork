@@ -1,0 +1,3 @@
+open database stgo;
+
+query jmapmatchmht(TestJNetwork, 'ideal_3.gpx');
