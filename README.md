@@ -4,7 +4,7 @@ Implementation of  data base using data model for moving object in network.
 
 ### Instruction to import OSM 
 open terminal
-Write :
+<br>Write :
 
 cd secondo/bin
 SecondoTTYBDB -i JNetworkFromFullOSMImport.SEC
